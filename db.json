@@ -1,0 +1,186 @@
+{
+    "perfume":[
+      {
+        "id":1,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/425c2a28411061819838New1.jpg",
+        "price": 7400 ,
+        "title":"Carolina Herrera Good Girl Eau De Parfum"
+      },
+      {
+        "id":2,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/a/3a562a23614272648418New1.jpg",
+        "price": 5900 ,
+        "title":"Yves Saint Laurent Libre Eau De Parfum"
+      },
+      {
+        "id":3,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/d/3de12a28011003993826New1.jpg",
+        "price": 8100 ,
+        "title":"Versace Bright Crystal Eau De Toilette"
+      },
+      {
+        "id":4,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/6/6626dafKAYAL00000026_1.jpg",
+        "price": 5620 ,
+        "title":"Kayali Invite Only Amber | 23 EDP"
+      },
+      {
+        "id":5,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/f/ff2e0b0888066075145_1.jpg",
+        "price": 7480 ,
+        "title":"Tom Ford Ombre Leather"
+      },
+      {
+        "id":6,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/e/0/e0e2a9c3605532612768_1.jpg",
+        "price": 8900 ,
+        "title":"Lancome La Vie Est Belle Eau De Parfum"
+      },
+      {
+        "id":7,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/0/b/0b52dafKAYAL00000083_1.jpg",
+        "price": 5900 ,
+        "title":"Kayali Vanilla Royale Sugared Patchouli 64 Eau"
+      },
+      {
+        "id":8,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/c/bc83dafKAYAL00000069_1.jpg",
+        "price": 3100 ,
+        "title":"Kayali Lovefest Burning Cherry 48 Eau De Parfum"
+      },
+      {
+        "id":9,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/6/5/658c2a2KAYAL00000066New1.jpg",
+        "price": 5600 ,
+        "title":"Kayali Very Sweet Set"
+      },
+      {
+        "id":10,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/d/4/d46d0b0888066000079_1.jpg",
+        "price": 3210 ,
+        "title":"Tom Ford Black Orchid"
+      },
+      {
+        "id":11,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/f/9fa813a3605532423265_1.jpg",
+        "price": 7400 ,
+        "title":"Lancome Tresor Midnight Rose Eau De Parfum For"
+      },
+      {
+        "id":12,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/c/9cb20b0TOMAC00000023_1.jpg",
+        "price": 5870 ,
+        "title":"Tom Ford Ombre Leather Parfum"
+      },
+      {
+        "id":13,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/6/36412a227131261612New1.jpg",
+        "price": 1200 ,
+        "title":"Estee Lauder Modern Muse Eau De Parfum"
+      },
+      {
+        "id":14,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/d/4d7ecfb8011003818174_0.jpg",
+        "price": 2300,
+        "title":"Versace Bright Crystal Absolu Eau De Parfum"
+      },
+      {
+        "id":15,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/7/97b02a23365440787919New1.jpg",
+        "price": 5690 ,
+        "title":"Yves Saint Laurent Black Opium Eau De Parfum"
+      },
+      {
+        "id":16,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/c/2c56dafKAYAL00000013_1.jpg",
+        "price": 2000 ,
+        "title":"Kayali Very Vanilla Set"
+      },
+      {
+        "id":17,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/425c2a28411061819838New1.jpg",
+        "price": 5960 ,
+        "title":"Calvin Klein CK One For Women & Men Eau De"
+      },
+      {
+        "id":18,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/9/7/97b02a23365440787919New1.jpg",
+        "price": 7400 ,
+        "title":"Gucci Flora Gorgeous Jasmine Eau De Parfum For Women"
+      },
+      {
+        "id":19,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/c/2c56dafKAYAL00000013_1.jpg",
+        "price": 5920 ,
+        "title":"Kayali Utopia Vanilla Coco | 21"
+      },
+      {
+        "id":20,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/2/425c2a28411061819838New1.jpg",
+        "price": 8000 ,
+        "title":"Carolina Herrera Good Girl Eau De Parfum"
+      },
+      {
+        "id":21,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/9/c91d6a7KAYAL00000064_1.jpg",
+        "price": 999 ,
+        "title":"Dolce & Gabbana The Only One Eau De Parfum"
+      },
+      {
+        "id":22,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/4/1/4167ade65107400000_0.jpg",
+        "price": 7800 ,
+        "title":"Giorgio Armani Si Eau De Parfum"
+      },
+      {
+        "id":23,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/c/7/c79199fGUCCI00000047_1.jpg",
+        "price": 7400 ,
+        "title":"Estee Lauder Beautiful Belle Eau De Parfum"
+      },
+      {
+        "id":24,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/2/c/2c56dafKAYAL00000013_1.jpg",
+        "price": 5670 ,
+        "title":"Yves Saint Laurent Mon Paris Eau De Parfum"
+      },
+      {
+        "id":25,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/3/4/3423478452459_main.jpg",
+        "price": 5630 ,
+        "title":"Elizabeth Arden My Fifth Avenue Eau De Parfum"
+      },
+      {
+        "id":26,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/b/8/b88199f3605521816658_1.jpg",
+        "price": 7400 ,
+        "title":"BVLGARI Parfumes The Womens Gift Collection"
+      },
+      {
+        "id":27,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/7/5/75f72a2887167330429New1.jpg",
+        "price": 9999 ,
+        "title":"Versace Pour Femme Dylan Blue Eau De Parfum"
+      },
+      {
+        "id":28,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/6/f64599f3614270561658_1.jpg",
+        "price": 8000 ,
+        "title":"Kayali Eden Juicy Apple | 01 Eau De Parfum"
+      },
+      {
+        "id":29,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/5/c/5c9b8c085805219758_1.jpg",
+        "price": 7400 ,
+        "title":"Kayali Eden Juicy Apple | 01 Eau De Parfum"
+      },
+      {
+        "id":30,
+        "url":"https://images-static.nykaa.com/media/catalog/product/tr:w-220,h-220,cm-pad_resize/f/9/f97f2a2BVLGA00000033New1.jpg",
+        "price": 6500 ,
+        "title":"Versace Pour Femme Dylan Blue Eau De Parfum"
+      }
+    ]
+    
+    
+    }
